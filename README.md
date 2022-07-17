@@ -32,7 +32,7 @@ GET https://api.nasa.gov/planetary/apod
 ## Screenshots
 
 ![](https://user-images.githubusercontent.com/90124241/179388356-05513bc3-c57d-4865-bb3b-015c45a78ac4.jpeg)
-![](https://user-images.githubusercontent.com/90124241/179388369-1d7c2512-c619-48d7-8c86-4c1f56e8dc39.jpeg)
+![](https://user-images.githubusercontent.com/90124241/179388468-267b1029-140b-44cd-ad2e-fd6684a75848.jpeg)
 
 
 
